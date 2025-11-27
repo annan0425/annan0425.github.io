@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <span style="color:red; font-weight:bold;">Seeking Ph.D. Position for Fall 2026</span>
 
 profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>annan0425@ruc.edu.cn </p>
+    <p>Email: annan0425@ruc.edu.cn </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
