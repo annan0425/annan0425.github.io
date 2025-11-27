@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: B.E. in Artificial Intelligence (Honors Program)
-      institution: Renmin University of China (RUC), Gaoling School of AI
+      institution: "Renmin University of China (RUC), Gaoling School of AI"
       year: 2022 - Present
       description: |
         <b>GPA:</b> 3.93 / 4.00 <br>
@@ -23,7 +23,7 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: RUC-EconCS Lab (Advisor: Prof. Qi Qi)
+      institution: "RUC-EconCS Lab (Advisor: Prof. Qi Qi)"
       year: Nov 2024 - Sep 2025
       description: |
         <b>Project: Beyond Last-Click: An Optimal Mechanism for Ad Attribution (NeurIPS 2025)</b>
@@ -34,7 +34,7 @@
         </ul>
 
     - title: Research Assistant
-      institution: RUC-EconCS Lab (Advisor: Prof. Qi Qi)
+      institution: "RUC-EconCS Lab (Advisor: Prof. Qi Qi)"
       year: May 2024 - Dec 2024
       description: |
         <b>Project: Merging Mechanisms for Ads and Organic Items (AAAI 2025 Oral)</b>
@@ -44,7 +44,7 @@
         </ul>
 
     - title: Industry Collaboration (Joint Research)
-      institution: Alibaba Group
+      institution: "Alibaba Group"
       year: Oct 2024 - Present
       description: |
         <b>Topic: Dynamic Multi-Channel Budget Allocation Strategy</b>
@@ -58,12 +58,12 @@
   type: time_table
   contents:
     - title: Merging Mechanisms for Ads and Organic Items in E-commerce Platforms
-      institution: AAAI 2025 (Oral Presentation, Top 4.6%)
+      institution: "AAAI 2025 (Oral Presentation, Top 4.6%)"
       year: 2025
       description: <b>Nan An*</b>, Weian Li*, Qi Qi†, Liang Zhang.
 
     - title: Beyond Last-Click: An Optimal Mechanism for Ad Attribution
-      institution: NeurIPS 2025 (Poster)
+      institution: "NeurIPS 2025 (Poster)"
       year: 2025
       description: <b>Nan An</b>, Weian Li, Qi Qi†, Changyuan Yu, Liang Zhang.
 
@@ -71,19 +71,19 @@
   type: time_table
   contents:
     - title: LLM-based Multi-Agent Simulation
-      institution: Course Project (Grade: 98/100)
+      institution: "Course Project (Grade: 98/100)"
       year: Fall 2024
       description: |
         Built a multi-agent system to simulate socio-economic behaviors (Triadic Closure, Auctions) and validated consistency with game theory.
 
     - title: Intelligent Q&A System with RAG & LoRA
-      institution: Course Project (Grade: 93/100)
+      institution: "Course Project (Grade: 93/100)"
       year: Spring 2025
       description: |
         Developed a vertical-domain Q&A system using Qwen2.5-7B, implementing RAG for grounding and LoRA for fine-tuning.
 
     - title: Multimodal Video Clickbait Detection
-      institution: National Undergraduate Innovation Program
+      institution: "National Undergraduate Innovation Program"
       year: 2024 - 2025
       description: |
         Developed a multimodal framework to detect clickbait and utilized LLM agents to automatically rectify titles/covers.
@@ -92,13 +92,13 @@
   type: time_table
   contents:
     - title: National Scholarship
-      institution: Highest Honor for Undergraduates in China
+      institution: "Highest Honor for Undergraduates in China (Top 0.2%)"
       year: 2025
     - title: National First Prize, CUMCM
-      institution: China Undergraduate Mathematical Contest in Modeling (Top 0.5%)
+      institution: "China Undergraduate Mathematical Contest in Modeling (Top 0.5%)"
       year: 2024
-    - title: Selected Academic Scholarships
-      institution: JD Scholarship (Top 2%), First-Class Scholarship (Top 5%)
+    - title: Many Academic Scholarships
+      institution: "JD Scholarship (Top 2%), First-Class Scholarship (Top 5%)"
       year: 2023-25
 
 - title: Skills & Service
