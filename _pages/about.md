@@ -6,29 +6,35 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Gaoling School of Artificial Intelligence</p>
+    <p>Renmin University of China</p>
+    <p>Beijing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior undergraduate student at the **Gaoling School of Artificial Intelligence**, **Renmin University of China (RUC)**, majoring in Artificial Intelligence (Honors Program). I rank **1st/61** in my cohort during the Sophomore & Junior years.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a research assistant at the **RUC-EconCS Lab**, fortunate to be advised by [Prof. [cite_start]Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on utilizing optimization and game-theoretic mechanisms to complex systems, particularly in the areas of EconCS and Large Language Models (LLMs).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my research, I have applied these game-theoretic principles to address real-world challenges, such as Ad Auctions and Attribution for e-commerce platforms. As the first author, I have published papers in top-tier conferences. My first paper was accepted for**Oral Presentation** at **AAAI 2025** (4.6%), and my second paper was accepted as a **poster** at **NeurIPS 2025**—which I personally find especially exciting.
+
+Right now, I’m tackling optimization problems that involve budget constraints. I'm working on:
+- **Autobidding & Budget Allocation:** How to spend money wisely in multi-channel auctions.*
+- **LLM Tool Use:** Teaching LLMs to use tools under strict budget constraints. 
+
+<span style="color:red;">**I am actively seeking Ph.D. positions starting in Fall 2026.**</span> My goal is to develop AI systems that are both powerful and economically sustainable. I am particularly interested in **optimization** and **game theory** problems arising from the rapidly growing field of **e-commerce**. Furthermore, I am particularly excited about the emerging **LLM Economy**, including **system optimization** (e.g., routing, scheduling, token allocation), **strategic multi-agent systems**, and applying LLMs to facilitate **problem formalization** and the **computation of equilibria** in complex systems.
