@@ -14,7 +14,7 @@
     - title: B.E. in Artificial Intelligence (Honors Program)
       institution: Renmin University of China (RUC), Gaoling School of AI
       year: 2022 - Present
-      description:
+      description: |
         <b>GPA:</b> 3.93 / 4.00 <br>
         <b>Rank:</b> <span style="color:red; font-weight:bold">1 / 61</span> (Sophomore & Junior years) <br>
         <b>Selected Honors Courses:</b> Optimization Theory (99), Game Theory (98), Math Foundation of AI (97), Networks, Crowds, and Markets (98).
@@ -25,7 +25,7 @@
     - title: Research Assistant
       institution: RUC-EconCS Lab (Advisor: Prof. Qi Qi)
       year: Nov 2024 - Sep 2025
-      description: >
+      description: |
         <b>Project: Beyond Last-Click: An Optimal Mechanism for Ad Attribution (NeurIPS 2025)</b>
         <ul>
           <li>Modeled ad attribution as a <b>Game-Theoretic problem</b> to address incentive misalignment in Last-Click Mechanism (LCM).</li>
@@ -36,7 +36,7 @@
     - title: Research Assistant
       institution: RUC-EconCS Lab (Advisor: Prof. Qi Qi)
       year: May 2024 - Dec 2024
-      description: >
+      description: |
         <b>Project: Merging Mechanisms for Ads and Organic Items (AAAI 2025 Oral)</b>
         <ul>
           <li>Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) to unify ad auctions and organic recommendations in multi-slot settings.</li>
@@ -46,7 +46,7 @@
     - title: Industry Collaboration (Joint Research)
       institution: Alibaba Group
       year: Oct 2024 - Present
-      description: >
+      description: |
         <b>Topic: Dynamic Multi-Channel Budget Allocation Strategy</b>
         <ul>
           <li><b>Problem:</b> Tackled the inefficiency of static budget allocation in dynamic markets (premature stopping vs. low utilization).</li>
@@ -73,23 +73,26 @@
     - title: LLM-based Multi-Agent Simulation
       institution: Course Project (Grade: 98/100)
       year: Fall 2024
-      description: Built a multi-agent system to simulate socio-economic behaviors (Triadic Closure, Auctions) and validated consistency with game theory.
+      description: |
+        Built a multi-agent system to simulate socio-economic behaviors (Triadic Closure, Auctions) and validated consistency with game theory.
 
     - title: Intelligent Q&A System with RAG & LoRA
       institution: Course Project (Grade: 93/100)
       year: Spring 2025
-      description: Developed a vertical-domain Q&A system using Qwen2.5-7B, implementing RAG for grounding and LoRA for fine-tuning.
+      description: |
+        Developed a vertical-domain Q&A system using Qwen2.5-7B, implementing RAG for grounding and LoRA for fine-tuning.
 
     - title: Multimodal Video Clickbait Detection
       institution: National Undergraduate Innovation Program
       year: 2024 - 2025
-      description: Developed a multimodal framework to detect clickbait and utilized LLM agents to automatically rectify titles/covers.
+      description: |
+        Developed a multimodal framework to detect clickbait and utilized LLM agents to automatically rectify titles/covers.
 
 - title: Honors & Awards
   type: time_table
   contents:
     - title: National Scholarship
-      institution: Highest Honor for Undergraduates in China (Top 0.2%)
+      institution: Highest Honor for Undergraduates in China
       year: 2025
     - title: National First Prize, CUMCM
       institution: China Undergraduate Mathematical Contest in Modeling (Top 0.5%)
