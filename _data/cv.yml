@@ -1,81 +1,81 @@
-- title: General Information
-  type: map
+- title: "General Information"
+  type: "map"
   contents:
-    Email: annan0425@ruc.edu.cn
-    Phone: +86 13537527819
-    Website: annan0425.github.io
-    Languages: Chinese (Native), English (TOEFL 106, GRE 324)
+    Email: "annan0425@ruc.edu.cn"
+    Phone: "+86 13537527819"
+    Website: "annan0425.github.io"
+    Languages: "Chinese (Native), English (TOEFL 106, GRE 324)"
 
-- title: Education
-  type: time_table
+- title: "Education"
+  type: "time_table"
   contents:
-    - title: B.E. in Artificial Intelligence (Honors Program)
-      institution: Renmin University of China (RUC), Gaoling School of AI
-      year: 2022 - 2026 (Expected)
+    - title: "B.E. in Artificial Intelligence (Honors Program)"
+      institution: "Renmin University of China (RUC), Gaoling School of AI"
+      year: "2022 - 2026 (Expected)"
       description: >
-        <b>GPA:</b> 3.93 / 4.00 (Rank 1/61) <br>
-        <b>Selected Honors Courses:</b> Optimization Theory (99), Game Theory (98), Math Foundation of AI (97), Networks, Crowds, and Markets (98).
+        <b>GPA:</b> "3.93 / 4.00 (Rank 1/61)" <br>
+        <b>Selected Honors Courses:</b> "Optimization Theory (99)", "Game Theory (98)", "Math Foundation of AI (97)", "Networks, Crowds, and Markets (98)".
 
-- title: Research Experience
-  type: time_table
+- title: "Research Experience"
+  type: "time_table"
   contents:
-    - title: Industry Collaboration (Joint Research)
-      institution: A Leading Tech Company (Alibaba Group)
-      year: Oct 2024 - Present
+    - title: "Industry Collaboration (Joint Research)"
+      institution: "A Leading Tech Company (Alibaba Group)"
+      year: "Oct 2024 - Present"
       description: >
         <b>Topic: Dynamic Multi-Channel Budget Allocation</b>
         <ul>
-          <li><b>Problem:</b> Addressed inefficiency where static allocation causes premature stopping (high-quality) and low utilization (low-quality).</li>
-          <li><b>Method:</b> Designing an <b>Online Algorithm</b> for real-time budget redistribution across heterogeneous sub-campaigns with distinct ROI targets.</li>
-          <li><b>Impact:</b> Maximizing total delivery rate while strictly satisfying performance constraints.</li>
+          <li><b>Problem:</b> "Addressed inefficiency where static allocation causes premature stopping (high-quality) and low utilization (low-quality)."</li>
+          <li><b>Method:</b> "Designing an <b>Online Algorithm</b> for real-time budget redistribution across heterogeneous sub-campaigns with distinct ROI targets."</li>
+          <li><b>Impact:</b> "Maximizing total delivery rate while strictly satisfying performance constraints."</li>
         </ul>
 
-    - title: Research Assistant
-      institution: RUC-EconCS Lab (Advisor: Prof. Qi Qi)
-      year: Nov 2024 - Sep 2025
+    - title: "Research Assistant"
+      institution: "RUC-EconCS Lab (Advisor: Prof. Qi Qi)"
+      year: "Nov 2024 - Sep 2025"
       description: >
         <b>Project: Ad Attribution Mechanism (NeurIPS 2025)</b>
         <ul>
-          <li>Proposed <b>Peer-Validated Mechanism (PVM)</b> leveraging Information Elicitation principles.</li>
-          <li>Proved PVM is the optimal DSIC mechanism in homogeneous settings with tight accuracy bounds.</li>
+          <li>"Proposed <b>Peer-Validated Mechanism (PVM)</b> leveraging Information Elicitation principles."</li>
+          <li>"Proved PVM is the optimal DSIC mechanism in homogeneous settings with tight accuracy bounds."</li>
         </ul>
 
-    - title: Research Assistant
-      institution: RUC-EconCS Lab (Advisor: Prof. Qi Qi)
-      year: May 2024 - Dec 2024
+    - title: "Research Assistant"
+      institution: "RUC-EconCS Lab (Advisor: Prof. Qi Qi)"
+      year: "May 2024 - Dec 2024"
       description: >
         <b>Project: Merging Mechanisms (AAAI 2025 Oral)</b>
         <ul>
-          <li>Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) to unify ad auctions and organic recommendations.</li>
-          <li>Proved approximation ratios (4/5³ for G-FIX, 1/2 for G-CHANGE).</li>
+          <li>"Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) to unify ad auctions and organic recommendations."</li>
+          <li>"Proved approximation ratios (4/5³ for G-FIX, 1/2 for G-CHANGE)."</li>
         </ul>
 
-- title: Selected Projects
-  type: time_table
+- title: "Selected Projects"
+  type: "time_table"
   contents:
-    - title: LLM-based Multi-Agent Simulation
-      institution: Course Project (Grade: 98/100)
-      year: Fall 2024
-      description: Built a multi-agent system to simulate socio-economic behaviors (Triadic Closure, Auctions) and validated consistency with game theory.
+    - title: "LLM-based Multi-Agent Simulation"
+      institution: "Course Project (Grade: 98/100)"
+      year: "Fall 2024"
+      description: "Built a multi-agent system to simulate socio-economic behaviors (Triadic Closure, Auctions) and validated consistency with game theory."
 
-    - title: Multimodal Video Clickbait Detection
-      institution: National Undergraduate Innovation Program (Grant: CNY 20,000)
-      year: 2024 - 2025
-      description: Developed a multimodal framework to detect clickbait and utilized LLM agents to automatically generate rectified titles/covers.
+    - title: "Multimodal Video Clickbait Detection"
+      institution: "National Undergraduate Innovation Program (Grant: CNY 20,000)"
+      year: "2024 - 2025"
+      description: "Developed a multimodal framework to detect clickbait and utilized LLM agents to automatically generate rectified titles/covers."
 
-- title: Honors & Awards
-  type: time_table
+- title: "Honors & Awards"
+  type: "time_table"
   contents:
-    - title: National Scholarship
-      institution: Highest Honor for Undergraduates in China (Top 0.2%)
-      year: 2025
-    - title: National First Prize, CUMCM
-      institution: China Undergraduate Mathematical Contest in Modeling (Top 0.5%)
-      year: 2024
+    - title: "National Scholarship"
+      institution: "Highest Honor for Undergraduates in China (Top 0.2%)"
+      year: "2025"
+    - title: "National First Prize, CUMCM"
+      institution: "China Undergraduate Mathematical Contest in Modeling (Top 0.5%)"
+      year: "2024"
 
-- title: Skills & Service
-  type: list
+- title: "Skills & Service"
+  type: "list"
   contents:
-    - <b>Service:</b> Reviewer for AAMAS 2026; Speaker at RUC Modeling Seminar.
-    - <b>Programming:</b> C/C++, Python.
-    - <b>Exams:</b> TOEFL 106, GRE 324.
+    - "<b>Service:</b> Reviewer for AAMAS 2026; Speaker at RUC Modeling Seminar."
+    - "<b>Programming:</b> C/C++, Python."
+    - "<b>Exams:</b> TOEFL 106, GRE 324."
