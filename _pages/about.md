@@ -23,7 +23,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
 
 social: true
 ---
@@ -36,20 +35,13 @@ My research efforts have yielded **impactful results**. I have published papers 
 * My first paper was accepted for an **Oral Presentation at AAAI 2025** (Acceptance Rate: 4.6%).
 * My second paper is a **Poster at NeurIPS 2025**, which is the **first work** to model and solve an **urgent incentive problem** in Ad attribution.
 
-### What I'm Working On Now
 I am currently extending my research into dynamic and constrained settings. My ongoing projects include:
 * **Autobidding Strategies** in complex auctions.
 * **Multi-channel Online Budget Allocation**.
 * **Budget-constrained Tool Use** for Large Language Models.
 
-### Looking Forward
 <span style="color:red; font-weight:bold">I am actively seeking Ph.D. positions starting in Fall 2026.</span>
 
 My goal is to build AI systems that are both powerful and **economically sustainable**. I am specifically interested in the emerging optimization and mechanism problems in two areas:
 * **E-commerce Platforms:** Addressing challenges such as **online matching**, **autobidding**, and **merging mechanisms** for ads and organic items.
 * **The LLM Economy:** Investigating **system optimization** (e.g., routing, scheduling), **budget-constrained multi-agent workflows**, and **pricing equilibria** in AI marketplaces.
-
-### Honors & Awards
-* **2025 National Scholarship** (Highest Honor for Undergraduates in China)
-* **2024 National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) (Top 0.5%)
-* **2023-2025 Selected Scholarships for Academic & Research Excellence**
