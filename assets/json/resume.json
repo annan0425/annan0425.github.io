@@ -1,138 +1,170 @@
 {
   "basics": {
     "name": "Nan An",
-    "label": "Ph.D. Applicant in Algorithmic Game Theory & Optimization",
-    "image": "assets/img/me.jpg",
+    "label": "Student, Research Assistant",
+    "image": "",
     "email": "annan0425@ruc.edu.cn",
-    "phone": "+86 13537527819",
-    "url": "https://annan0425.github.io",
-    "summary": "Senior undergraduate (Rank 1/61) with first-author publications at AAAI 2025 (Oral) and NeurIPS 2025. Research focuses on EconCS, Optimization, and LLM-based multi-agent systems.",
+    "phone": "(912) 123-4567",
+    "url": "https://github.com/annan0425",
+    "summary": "A highly motivated AI and Machine Learning enthusiast with research experience in auction theory and ad attribution.",
     "location": {
-      "address": "Gaoling School of AI, Renmin University of China",
+      "address": "Beijing, China",
+      "postalCode": "100872",
       "city": "Beijing",
-      "countryCode": "CN"
-    }
+      "countryCode": "CN",
+      "region": "Beijing"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "annan0425",
+        "url": "https://github.com/annan0425"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nan-an",
+        "url": "https://linkedin.com/in/nan-an"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Industry Collaboration @ A Leading Tech Company",
-      "position": "Joint Research/Project Lead",
-      "url": "https://annan0425.github.io/cv",
-      "startDate": "2024-10-01",
-      "endDate": "Present",
-      "summary": "Tackled the multi-campaign budget allocation problem in dynamic markets. Designed an Online Algorithm to maximize total delivery rate under strict ROI constraints, addressing issues of premature stopping and low utilization.",
-      "highlights": [
-        "Designed Online Algorithm for real-time budget redistribution across heterogeneous campaigns.",
-        "Maximized total budget utilization while satisfying performance constraints."
-      ]
-    },
-    {
-      "name": "Research Assistant @ RUC-EconCS Lab (Advisor: Prof. Qi Qi)",
-      "position": "Core Researcher",
+      "name": "RUC-EconCS Lab",
+      "position": "Research Assistant",
+      "url": "https://www.ruc.edu.cn",
       "startDate": "2024-11-01",
       "endDate": "2025-09-01",
-      "summary": "Led the NeurIPS project on ad attribution mechanisms.",
-      "highlights": [
-        "Proposed Peer-Validated Mechanism (PVM), the optimal DSIC mechanism in homogeneous settings.",
-        "Addressed incentive misalignment in Last-Click Mechanism (LCM) using a Game-Theoretic model."
-      ]
-    },
-    {
-      "name": "Research Assistant @ RUC-EconCS Lab",
-      "position": "Core Researcher",
-      "startDate": "2024-05-01",
-      "endDate": "2024-12-01",
-      "summary": "Led the AAAI project on mechanism design for ad/organic item merging.",
-      "highlights": [
-        "Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) for multi-slot ranking.",
-        "Proved approximation ratios (4/5³ for G-FIX, 1/2 for G-CHANGE)."
-      ]
+      "summary": "Research on ad attribution mechanisms, focusing on game-theoretic models and peer-validated mechanisms.",
+      "highlights": ["Ad Attribution Mechanisms", "Game Theory"]
     }
   ],
   "volunteer": [
     {
-      "organization": "AAMAS 2026",
-      "position": "External Reviewer",
-      "startDate": "2025-09-01",
-      "summary": "Contributed to the academic community by reviewing submissions for a top conference in Multiagent Systems."
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": [
+        "Awarded 'Climate Hero' by Greenpeace for my organizing efforts.",
+        "Named 'Men of the Year 2014' by Time magazine"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "Renmin University of China (RUC), Gaoling School of Artificial Intelligence",
+      "institution": "Renmin University of China (RUC), Beijing, China",
       "location": "Beijing, China",
-      "studyType": "B.E. in Artificial Intelligence (Honors Program)",
+      "url": "https://www.ruc.edu.cn",
+      "area": "Artificial Intelligence",
+      "studyType": "Undergraduate (Honors Program)",
       "startDate": "2022-09-01",
-      "endDate": "2026-06-01",
-      "score": "3.93 / 4.00",
-      "courses": ["Optimization Theory (99)", "Game Theory (98)", "Math Foundation of AI (97)", "Computational Economics (97)"]
+      "endDate": "Present",
+      "score": "3.93/4.00",
+      "courses": ["Optimization Theory", "Game Theory", "Networks and Markets"]
     }
   ],
   "awards": [
     {
       "title": "National Scholarship",
-      "date": "2025",
-      "awarder": "Ministry of Education of China",
-      "summary": "Highest Honor for Undergraduates in China (Top 0.2%)."
+      "date": "2025-11-01",
+      "awarder": "Chinese Government",
+      "url": "https://www.national-award.com",
+      "summary": "Awarded to top 0.2% of undergraduates in China for academic excellence."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2023-05-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "title": "National First Prize, CUMCM",
-      "date": "2024",
-      "awarder": "China Undergraduate Mathematical Contest in Modeling",
-      "summary": "National First Prize (Top 0.5% Nationwide)."
+      "name": "Quantum Computing",
+      "date": "2023-06-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
     {
-      "name": "Merging Mechanisms for Ads and Organic Items in E-commerce Platforms",
+      "name": "Merging Mechanisms for Ads and Organic Items",
       "publisher": "AAAI 2025",
-      "releaseDate": "2025-04-11",
-      "url": "https://doi.org/10.1609/aaai.v39i13.33479",
-      "summary": "Co-first Author. Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) to unify ad auctions and organic recommendations. Received Oral Presentation (Top 4.6%)."
-    },
-    {
-      "name": "Beyond Last-Click: An Optimal Mechanism for Ad Attribution",
-      "publisher": "NeurIPS 2025",
-      "releaseDate": "2025-12-01",
-      "url": "https://openreview.net/pdf/5efc96cbfbbca430b260004524e3ece6b4229c90.pdf",
-      "summary": "First Author. Proposed Peer-Validated Mechanism (PVM), the optimal DSIC mechanism, addressing incentive misalignment using a Game-Theoretic model."
+      "releaseDate": "2025-01-01",
+      "url": "https://example.com",
+      "summary": "Unifying mechanisms for ad auctions and organic recommendations in multi-slot settings."
     }
   ],
   "skills": [
     {
-      "name": "Programming",
-      "level": "Master",
-      "keywords": ["Python", "C/C++"]
+      "name": "Artificial Intelligence",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Reinforcement Learning"
+      ]
     },
     {
-      "name": "Technical & Math",
-      "level": "Expert",
-      "keywords": ["Algorithmic Game Theory", "Optimization Theory", "Mechanism Design", "LLM System Optimization"]
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C++",
+        "TensorFlow"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Fluent (TOEFL 106, GRE 324)"
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
-      "language": "Chinese",
-      "fluency": "Native"
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Robotics"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Qi Qi",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Supervisor for my research at RUC-EconCS Lab. Worked on ad attribution mechanisms."
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "My mentor in the AI department. Provided guidance on my academic projects."
     }
   ],
   "projects": [
     {
-      "name": "LLM-based Multi-Agent Simulation",
-      "summary": "Built an LLM-based system to simulate Triadic Closure, Information Cascades, and Auction Mechanisms to validate agent behaviors against game theory expectations.",
-      "startDate": "Fall 2024",
-      "keywords": ["LLMs", "Multi-Agent Systems", "Game Theory Validation"]
-    },
-    {
-      "name": "Multimodal Video Clickbait Detection",
-      "summary": "Developed a multimodal framework to detect clickbait, utilizing LLM agents for interpretability and automatic title/cover generation.",
-      "startDate": "May 2024",
-      "endDate": "Apr 2025",
-      "keywords": ["Multimodal AI", "LLM Agent", "Clickbait Detection"]
+      "name": "Ad Attribution Mechanisms in E-Commerce",
+      "summary": "Research project focused on optimizing ad attribution in digital marketing using game theory.",
+      "highlights": ["Game-Theoretic Models", "Peer-Validated Mechanisms"],
+      "startDate": "2024-11-01",
+      "endDate": "2025-09-01",
+      "url": "https://example.com"
     }
   ]
 }
