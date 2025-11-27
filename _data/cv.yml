@@ -62,7 +62,7 @@
       year: 2025
       description: <b>Nan An*</b>, Weian Li*, Qi Qi†, Liang Zhang.
 
-    - title: Beyond Last-Click: An Optimal Mechanism for Ad Attribution
+    - title: "Beyond Last-Click: An Optimal Mechanism for Ad Attribution"
       institution: "NeurIPS 2025 (Poster)"
       year: 2025
       description: <b>Nan An</b>, Weian Li, Qi Qi†, Changyuan Yu, Liang Zhang.
@@ -94,14 +94,14 @@
     - title: National Scholarship
       institution: "Highest Honor for Undergraduates in China (Top 0.2%)"
       year: 2025
-    - title: National First Prize, CUMCM
+    - title: "National First Prize, CUMCM"
       institution: "China Undergraduate Mathematical Contest in Modeling (Top 0.5%)"
       year: 2024
     - title: Many Academic Scholarships
       institution: "JD Scholarship (Top 2%), First-Class Scholarship (Top 5%)"
       year: 2023-25
 
-- title: Skills & Service
+- title: "Skills & Service"
   type: list
   contents:
     - <b>Service:</b> Reviewer for AAMAS 2026; Speaker at RUC Modeling Seminar.
