@@ -1,200 +1,138 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Nan An",
+    "label": "Ph.D. Applicant in Algorithmic Game Theory & Optimization",
+    "image": "assets/img/me.jpg",
+    "email": "annan0425@ruc.edu.cn",
+    "phone": "+86 13537527819",
+    "url": "https://annan0425.github.io",
+    "summary": "Senior undergraduate (Rank 1/61) with first-author publications at AAAI 2025 (Oral) and NeurIPS 2025. Research focuses on EconCS, Optimization, and LLM-based multi-agent systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "Gaoling School of AI, Renmin University of China",
+      "city": "Beijing",
+      "countryCode": "CN"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Industry Collaboration @ A Leading Tech Company",
+      "position": "Joint Research/Project Lead",
+      "url": "https://annan0425.github.io/cv",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Tackled the multi-campaign budget allocation problem in dynamic markets. Designed an Online Algorithm to maximize total delivery rate under strict ROI constraints, addressing issues of premature stopping and low utilization.",
+      "highlights": [
+        "Designed Online Algorithm for real-time budget redistribution across heterogeneous campaigns.",
+        "Maximized total budget utilization while satisfying performance constraints."
+      ]
+    },
+    {
+      "name": "Research Assistant @ RUC-EconCS Lab (Advisor: Prof. Qi Qi)",
+      "position": "Core Researcher",
+      "startDate": "2024-11-01",
+      "endDate": "2025-09-01",
+      "summary": "Led the NeurIPS project on ad attribution mechanisms.",
+      "highlights": [
+        "Proposed Peer-Validated Mechanism (PVM), the optimal DSIC mechanism in homogeneous settings.",
+        "Addressed incentive misalignment in Last-Click Mechanism (LCM) using a Game-Theoretic model."
+      ]
+    },
+    {
+      "name": "Research Assistant @ RUC-EconCS Lab",
+      "position": "Core Researcher",
+      "startDate": "2024-05-01",
+      "endDate": "2024-12-01",
+      "summary": "Led the AAAI project on mechanism design for ad/organic item merging.",
+      "highlights": [
+        "Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) for multi-slot ranking.",
+        "Proved approximation ratios (4/5³ for G-FIX, 1/2 for G-CHANGE)."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "AAMAS 2026",
+      "position": "External Reviewer",
+      "startDate": "2025-09-01",
+      "summary": "Contributed to the academic community by reviewing submissions for a top conference in Multiagent Systems."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Renmin University of China (RUC), Gaoling School of Artificial Intelligence",
+      "location": "Beijing, China",
+      "studyType": "B.E. in Artificial Intelligence (Honors Program)",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01",
+      "score": "3.93 / 4.00",
+      "courses": ["Optimization Theory (99)", "Game Theory (98)", "Math Foundation of AI (97)", "Computational Economics (97)"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "National Scholarship",
+      "date": "2025",
+      "awarder": "Ministry of Education of China",
+      "summary": "Highest Honor for Undergraduates in China (Top 0.2%)."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "National First Prize, CUMCM",
+      "date": "2024",
+      "awarder": "China Undergraduate Mathematical Contest in Modeling",
+      "summary": "National First Prize (Top 0.5% Nationwide)."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Merging Mechanisms for Ads and Organic Items in E-commerce Platforms",
+      "publisher": "AAAI 2025",
+      "releaseDate": "2025-04-11",
+      "url": "https://doi.org/10.1609/aaai.v39i13.33479",
+      "summary": "Co-first Author. Designed the first IC & IR mechanisms (G-FIX & G-CHANGE) to unify ad auctions and organic recommendations. Received Oral Presentation (Top 4.6%)."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Beyond Last-Click: An Optimal Mechanism for Ad Attribution",
+      "publisher": "NeurIPS 2025",
+      "releaseDate": "2025-12-01",
+      "url": "https://openreview.net/pdf/5efc96cbfbbca430b260004524e3ece6b4229c90.pdf",
+      "summary": "First Author. Proposed Peer-Validated Mechanism (PVM), the optimal DSIC mechanism, addressing incentive misalignment using a Game-Theoretic model."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Python", "C/C++"]
+    },
+    {
+      "name": "Technical & Math",
+      "level": "Expert",
+      "keywords": ["Algorithmic Game Theory", "Optimization Theory", "Mechanism Design", "LLM System Optimization"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent (TOEFL 106, GRE 324)"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Chinese",
+      "fluency": "Native"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "LLM-based Multi-Agent Simulation",
+      "summary": "Built an LLM-based system to simulate Triadic Closure, Information Cascades, and Auction Mechanisms to validate agent behaviors against game theory expectations.",
+      "startDate": "Fall 2024",
+      "keywords": ["LLMs", "Multi-Agent Systems", "Game Theory Validation"]
+    },
+    {
+      "name": "Multimodal Video Clickbait Detection",
+      "summary": "Developed a multimodal framework to detect clickbait, utilizing LLM agents for interpretability and automatic title/cover generation.",
+      "startDate": "May 2024",
+      "endDate": "Apr 2025",
+      "keywords": ["Multimodal AI", "LLM Agent", "Clickbait Detection"]
     }
   ]
 }
