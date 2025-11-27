@@ -25,15 +25,31 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a senior undergraduate student at the **Gaoling School of Artificial Intelligence**, **Renmin University of China (RUC)**, majoring in **Artificial Intelligence (Honors Program)**. I rank **1st/61** in my cohort during the Sophomore & Junior years.
+social: true
+---
 
-Currently, I am a research assistant at the **RUC-EconCS Lab**, fortunate to be advised by [Prof. Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on utilizing optimization and game-theoretic mechanisms to complex systems, particularly in the areas of EconCS and Large Language Models (LLMs).
+Hi, I'm **Nan An**.
 
-In my research, I have applied these game-theoretic principles to address real-world challenges, such as Ad Auctions and Attribution for e-commerce platforms. As the first author, I have published papers in top-tier conferences. My first paper was accepted for**Oral Presentation** at **AAAI 2025** (4.6%), and my second paper was accepted as a **poster** at **NeurIPS 2025**—which I personally find especially exciting.
+I am a senior undergraduate in the **AI Honors Program** at **Renmin University of China (RUC)**. Currently, I am a research assistant at the **RUC-EconCS Lab**, advised by [Prof. Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on **utilizing** optimization and game-theoretic mechanisms **to analyze and design** complex systems, particularly in the areas of **EconCS** and **Large Language Models (LLMs)**.
 
-Right now, I’m tackling optimization problems that involve budget constraints. I'm working on:
-- **Autobidding & Budget Allocation:** How to spend money wisely in multi-channel auctions. 
-- **LLM Tool Use:** Teaching LLMs to use tools under strict budget constraints. 
+My research efforts have yielded **impactful results**. I have published papers as the **first author** at top-tier conferences:
+* My first paper was accepted for an **Oral Presentation at AAAI 2025** (Acceptance Rate: 4.6%).
+* My second paper is a **Poster at NeurIPS 2025**, which is the **first work** to model and solve an **urgent incentive problem** in Ad attribution.
 
-<span style="color:red;">**I am actively seeking Ph.D. positions starting in Fall 2026.**</span> 
-My goal is to develop AI systems that are both powerful and economically sustainable. I am particularly interested in **optimization** and **game theory** problems arising from the rapidly growing field of **e-commerce**. Furthermore, I am particularly excited about the emerging **LLM Economy**, including **system optimization** (e.g., routing, scheduling, token allocation), **strategic multi-agent systems**, and applying LLMs to facilitate **problem formalization** and the **computation of equilibria** in complex systems.
+### What I'm Working On Now
+I am currently extending my research into dynamic and constrained settings. My ongoing projects include:
+* **Autobidding Strategies** in complex auctions.
+* **Multi-channel Online Budget Allocation**.
+* **Budget-constrained Tool Use** for Large Language Models.
+
+### Looking Forward
+<span style="color:red; font-weight:bold">I am actively seeking Ph.D. positions starting in Fall 2026.</span>
+
+My goal is to build AI systems that are both powerful and **economically sustainable**. I am specifically interested in the emerging optimization and mechanism problems in two areas:
+* **E-commerce Platforms:** Addressing challenges such as **online matching**, **autobidding**, and **merging mechanisms** for ads and organic items.
+* **The LLM Economy:** Investigating **system optimization** (e.g., routing, scheduling), **budget-constrained multi-agent workflows**, and **pricing equilibria** in AI marketplaces.
+
+### Honors & Awards
+* **2025 National Scholarship** (Highest Honor for Undergraduates in China)
+* **2024 National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) (Top 0.5%)
+* **2023-2025 Selected Scholarships for Academic & Research Excellence**
