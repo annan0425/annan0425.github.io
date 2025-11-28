@@ -25,6 +25,13 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
           description: "GPA: 3.93/4.00 | AAAI Oral &amp; NeurIPS Author | National Scholarship",
           section: "Navigation",
           handler: () => {
