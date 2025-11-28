@@ -1,9 +1,14 @@
 ---
-# 文件路径: _pages/cv.md
-layout: redirect # <--- 使用 'redirect' 布局
+layout: null # <--- 使用 'null' 布局，避免主题逻辑干扰
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-redirect: /assets/pdf/cv.pdf # <--- 关键！设置重定向目标为 PDF
 ---
+<meta http-equiv="refresh" content="0; url=/assets/pdf/cv.pdf">
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/assets/pdf/cv.pdf" />
+
+<script>
+  // 备用 JavaScript 重定向，确保在任何情况下都能跳转
+  window.location.href = "{{ site.baseurl }}/assets/pdf/cv.pdf";
+</script>
