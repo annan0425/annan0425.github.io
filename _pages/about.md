@@ -29,7 +29,7 @@ social: false
 
 Hi, I'm **Nan An**.
 
-I am a senior undergraduate in  **Renmin University of China (RUC)**. Currently, I am a research assistant at the **RUC-EconCS Lab**, advised by [Prof. Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on **utilizing** game-theoretic framework **to analyze and design** complex systems, particularly in the area of **EconCS**.
+I am a senior undergraduate in  **Renmin University of China (RUC)**. Currently, I am advised by [Prof. Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on **utilizing** game-theoretic framework **to analyze and design** complex systems, particularly in the area of **EconCS**.
 
 My research efforts have yielded **impactful results**. I have published papers as the **first author** at top-tier conferences:
 * My first paper was accepted for an **Oral Presentation at AAAI 2025** (Acceptance Rate: 4.6%).
