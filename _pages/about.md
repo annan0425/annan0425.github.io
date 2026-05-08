@@ -29,19 +29,10 @@ social: false
 
 Hi, I'm **Nan An**.
 
-I am a senior undergraduate in the **AI Honors Program** at **Renmin University of China (RUC)**. Currently, I am a research assistant at the **RUC-EconCS Lab**, advised by [Prof. Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on **utilizing** optimization and game-theoretic mechanisms **to analyze and design** complex systems, particularly in the areas of **EconCS** and **Large Language Models (LLMs)**.
+I am a senior undergraduate in  **Renmin University of China (RUC)**. Currently, I am a research assistant at the **RUC-EconCS Lab**, advised by [Prof. Qi Qi](https://gsai.ruc.edu.cn/english/qiqi). My research focuses on **utilizing** game-theoretic framework **to analyze and design** complex systems, particularly in the areas of **EconCS**.
 
 My research efforts have yielded **impactful results**. I have published papers as the **first author** at top-tier conferences:
 * My first paper was accepted for an **Oral Presentation at AAAI 2025** (Acceptance Rate: 4.6%).
 * My second paper is a **Poster at NeurIPS 2025**, which is the **first work** to model and solve an **urgent incentive problem** in Ad attribution.
 
-I am currently extending my research into dynamic and constrained settings. My ongoing projects include:
-* **Autobidding Strategies** in complex auctions.
-* **Multi-channel Online Budget Allocation**.
-* **Budget-constrained Tool Use** for Large Language Models.
-
 <span style="color:red; font-weight:bold">I am actively seeking Ph.D. positions starting in Fall 2026.</span>
-
-My goal is to build AI systems that are both powerful and **economically sustainable**. I am specifically interested in the emerging optimization and mechanism problems in two areas:
-* **E-commerce Platforms:** Addressing challenges such as **online matching**, **autobidding**, and **merging mechanisms** for ads and organic items.
-* **The LLM Economy:** Investigating **system optimization** (e.g., routing, scheduling), **budget-constrained multi-agent workflows**, and **pricing equilibria** in AI marketplaces.
